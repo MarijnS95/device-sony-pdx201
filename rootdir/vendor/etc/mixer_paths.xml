@@ -2792,7 +2792,9 @@
         <ctl name="RX INT0 DEM MUX" value="CLSH_DSM_OUT" />
         <ctl name="EAR_RDAC Switch" value="1" />
         <ctl name="RDAC3_MUX" value="RX1" />
-        <ctl name="RX_RX0 Digital Volume" value="92" />
+
+        <ctl name="RX_RX0 Digital Volume" value="88" />
+        <ctl name="AMP PCM Gain" value="17" />
     </path>
 
     <path name="speaker">
