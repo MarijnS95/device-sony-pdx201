@@ -2794,6 +2794,8 @@
         <ctl name="EAR_RDAC Switch" value="1" />
         <ctl name="RDAC3_MUX" value="RX1" />
 
+        <ctl name="PRI_MI2S_RX Channels" value="Two" />
+
         <ctl name="RX_RX0 Digital Volume" value="92" />
         <ctl name="AMP PCM Gain" value="18" />
     </path>
